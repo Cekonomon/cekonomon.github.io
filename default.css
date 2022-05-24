@@ -1,0 +1,38 @@
+body{
+   background-color: #3498DB ; 
+   font-family: 'Macondo', cursive;
+}
+
+h1{
+    color: rgb(232, 88, 88);
+    font-size: 24px;
+}
+
+h6{
+    color: blueviolet;
+}
+
+a:link{
+    color: black;
+}
+a:visited {
+    color: pink;
+  }
+
+  #headerTest{
+      background-color: aquamarine;
+      height: 100px;
+      width: 300px;
+      padding: 20px;
+      border-style: solid;
+      border-width: 5px;
+      border-color: blue;
+      position: absolute; top: 50px; left: 500px;
+  }
+
+  #test{
+      background-color: aqua;
+      height: 700px;
+      width: 950px;
+      
+  }
